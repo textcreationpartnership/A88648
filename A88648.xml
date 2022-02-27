@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made by Sr. Thomas Lunsford, Colonell, vvhen he was apprehended. With, a full relation, where, when, and how, he was taken; by the courage, magnanimity, and wise care of one Master John Benham, officer to the Honourable House of Commons. As may appeare by divers both in Windsor, and Maiden-head; of whom it is held in admiration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88648</idno>
+            <idno type="STC">Wing L3488</idno>
+            <idno type="STC">Thomason E199_39</idno>
+            <idno type="STC">ESTC R212646</idno>
+            <idno type="EEBO-CITATION">99871241</idno>
+            <idno type="PROQUEST">99871241</idno>
+            <idno type="VID">157534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157534)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made by Sr. Thomas Lunsford, Colonell, vvhen he was apprehended. With, a full relation, where, when, and how, he was taken; by the courage, magnanimity, and wise care of one Master John Benham, officer to the Honourable House of Commons. As may appeare by divers both in Windsor, and Maiden-head; of whom it is held in admiration.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, Anno Domini, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact a speech; a narrative of the arrest of Lunsford.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lunsford, Thomas, --  Sir, 1610?-1653? --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157534:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <p>A SPEECH made by S<hi rend="sup">r</hi>. THOMAS LUNSFORD, COLONELL, When he was Apprehended.</p>
+            <p>WITH, A FULL RELATION, WHERE, WHEN, AND HOW, HE WAS TAKEN;</p>
+            <p>By the Courage, Magnanimity, and wiſe care of one Maſter <hi>John Benham,</hi> Officer to the Honourable Houſe of COMMONS.</p>
+            <p>As may appeare by divers both in Windſor, and Maiden-head; of whom it is held in Admiration.</p>
+            <p>LONDON, Printed, <hi>Anno Domini,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157534:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:157534:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>A full Relation, where, when, and how, Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Lunsford</hi> was apprehended.</head>
+            <p>A Warrant Iſſuing forth out of the Honourable houſe of Commons, for the apprehending, and bringing in of Sir <hi>Thomas Lunsford</hi> Colonell, before the Houſe. And being directed to Mr. John <hi>Hunt</hi> Eſquire, Sergiant at Armes to that Honourable Houſe; to his De<g ref="char:EOLhyphen"/>putie, or Deputies: Requiring the Aſſiſtance of all She<g ref="char:EOLhyphen"/>riffes, Juſtices of Peace, Cunſtables, and other Officers, for ayd therein with all poſſible dilligence</p>
+            <p>This Warrant (as it appeareth) was committed to the Charge, and care of one Mr. <hi>John Benham,</hi> an Officer to the ſaid Houſe on Fryday the 14. of <hi>Iannuary,</hi> 1641. Whoſe care herein, whoſe ſtout Courage, Diſcretion, and dilligence, is had in admiration of thoſe whoſe eyes, and eares both ſaw and beheld the ſame; who being come Winſor, the place where Sir <hi>Thomas Lunsford</hi> then was, he repaired to the Magiſtrates of Winſor aforeſaid, and de<g ref="char:EOLhyphen"/>clared to them his Meſſage, requiring their ayd and Aſſiſt<g ref="char:EOLhyphen"/>ance, who being very forward to doe what lay in them, en<g ref="char:EOLhyphen"/>tertained the Meſſage with all reſpect that could be; but after debate upon the matter, conceiving that great danger might enſue of doing of his Office there at that time, both becauſe in every Inne in the Towne there was ſo many ca<g ref="char:EOLhyphen"/>vilers, And many other reſpects which they drew up in a Certificat directed to the Honourable houſe of Commons, and after many diſſwaſions of People thereabout, the ſaid Officer forbore that night; but uſing all the care and dil<g ref="char:EOLhyphen"/>ligence that could be, he laid wait about the Towne to
+<pb facs="tcp:157534:3"/>
+               <!-- PDF PAGE 38 -->have knowledge in caſe he ſhould goe away from thence: himſelfe being much ſought to, to keepe himſelfe as pri<g ref="char:EOLhyphen"/>vate as poſſibly he could, for feare of danger.</p>
+            <p>The next day being Saturday, it was told to the ſaid Offi<g ref="char:EOLhyphen"/>cer about Noone that Sir <hi>Thomas Lunsford</hi> was gone away in his Coach, as it was imagined towards <hi>Bilinsbeare,</hi> be<g ref="char:EOLhyphen"/>cauſe his Coach was ſeene to goe into the Forreſt: which way the ſaid Officer haſted after him: who leaving the Rode ſome two mile, chanced to come to <hi>Maydſtone,</hi> in which Towne been juired for the Cunſtables: but they were at a Market from home, at that time; but the chiefe Officer that was then at home there, was called the War<g ref="char:EOLhyphen"/>den, of whom he required ayd, and producing the warrant was by him read; and after he had taken the ſaid Officer Mr. <hi>John Benham</hi> his name, and read the Warrant; he was very ready to doe him what aſſiſtance he could.</p>
+            <p>The People in the Towne they came forth in multitudes to enquire the buſineſſe, Soe the Warden with a Pettie Cunſtable, and with ſome other of the Towne, being part<g ref="char:EOLhyphen"/>ly reſolved for the buſineſſe; ſome of them (by the way) demanded of the Officer: If in caſe either loſſe of Life or of Limbs, or the like ſhould befall them: they being poore men, what recompece ſhould be made to them, their Wives; or Children.</p>
+            <p>But the ſaid Officer anſwered them to this effect. Friends.</p>
+            <p>
+               <hi>Conſider the cauſe? Feare not to venter both Limbs, &amp; life in a good cauſe, can you undertake a bettor worke then for God your King, and Coutrey, let me tell you one thing, I ſpeake unfainedly? There hath not yet any man that hath undertaken any thing for the Houſe, but were well rewarded for it; you ſhall fare no worſe then my ſelfe; I will leade you on by the helpe of God, what danger ſoever can befall you; my ſelfe ſhall firſt
+<pb facs="tcp:157534:3"/>
+                  <!-- PDF PAGE 38 -->meete with; neither will I by Gods helpe leave you till as I ſhall bring you on, ſoe alſo, I ſhall bring you off againe, there<g ref="char:EOLhyphen"/>fore be of good courage, truſt in God, and feare not.</hi>
+            </p>
+            <p>Then they would needs know whether they muſt goe, which he being unwilling that any of the Towne ſhould knowe, for divers reaſons, was nevertheleſſe conſtrayned to tell them; before they would conſent to goe: yet had they ſtill noe agillity in them to haſten about the worke, ſoe he ſpake to them againe to this effect.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>M. Warden.</salute>
+                        </opener>
+                        <p>This is not a buſineſſe to be delayed I aſſure you; if you will not goe, I muſt be forced to complaine to the Houſe of Com<g ref="char:EOLhyphen"/>mons, of your negligence and diſeſteeme of their Warrant in a buſineſſe of ſo great concernement; if you doubt of any thing, wherein you are not reſolved, take Sir <hi>Edward Sowyers</hi> in your way; and ſpeake with Him; it may be then you will be better ſatisfied.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Hereupon they were all reſolved to goe, to the number of about 24. of whom 5. or 6. Rid along with him, the reſt went on foote. Firſt to Sir <hi>Edword Sawyers</hi> about a mile and an halfe, outward of the way, who ſo ſoone as he un<g ref="char:EOLhyphen"/>derſtood the buſineſſe, endeavoured to forward the buſi<g ref="char:EOLhyphen"/>neſſe with all ſpeed, annimated them on, &amp; furniſhed them with Halberts and petervells, as well as he could; and ſent ſome of his owne Servants along with them: encouraging them all to doe the beſt Service they could, and in caſe they ſhould want Ayd to rayſe more with all ſpeed.</p>
+            <p>
+               <pb facs="tcp:157534:4"/>
+               <!-- PDF PAGE 39 -->
+From thence they departed, towards <hi>Billinſbeare</hi> afore<g ref="char:EOLhyphen"/>ſaid, which is a Remote Place, in the Pariſh of Laurance Walton in the County of <hi>Barks,</hi> and the Waters being then high they were conſtrayned in ſome places to paſſe over with much difficulty, and danger; eſpecially in one Place where they were all carried over on Horſe-back by turnes, on the Luſtieſt, and greateſt Horſes.</p>
+            <p>Comming into the Forreſt, the Officer perceived the tracke of a Coach, which ſeemed to him that it was newly made, which tracke they followed, till they came to <hi>Bil<g ref="char:EOLhyphen"/>linſbeare.</hi> And ſo ſoone as they came in full ſight of the Houſe, they all ſtayed one for another, for the Horſes was before thoſe that came on Foot, then all being toge<g ref="char:EOLhyphen"/>ther, the Officer thus ordered the buſineſſe.</p>
+            <list>
+               <item>1. Thoſe that rid ſhould ride up to the Houſe Firſt.</item>
+               <item>2. So ſoone as they were rid up juſt againſt the Houſe, that then the Foot ſhould March up after them to the Houſe.</item>
+               <item>3. Whilſt the Foot were comming up, theſe that rid to be placed at ſeverall corners about the Houſe, to ſee that in caſe any man ſhould come out, notice might be given; which was done according to the direction of the Officer.</item>
+            </list>
+            <p>By that time they were rid up, and placed; and the Offi<g ref="char:EOLhyphen"/>cer had rid about the Houſe, the Foot were come up, and ſtood together under an high hedge.</p>
+            <p>The Officer alighted from his Horſe, and called them to him, deſiring them to be of good courage and to fol<g ref="char:EOLhyphen"/>low him.</p>
+            <p>Having entred thorow a great Gate, and over a wide Court, they came into the Hall, where the Officer appoin<g ref="char:EOLhyphen"/>ted one part of them to ſtay, commanding them to let no man paſſe by, either one way or other: the other part he led with him through another dore, &amp; came into the kit<g ref="char:EOLhyphen"/>chen, where there were divers Servingman, Footmen, and
+<pb facs="tcp:157534:4"/>
+               <!-- PDF PAGE 39 -->whoſe ſwords lay up &amp; down the Kitchen; which ſwords the officer tooke up preſently; and delivered them to his own gard, who made uſe of them, to ſupply where moſt need was.</p>
+            <p>The Officer ſtayed not there when he had taken the wea<g ref="char:EOLhyphen"/>pons; and ſpeaking very little, returned into the Hal; know<g ref="char:EOLhyphen"/>ing that to be no place probable to meet with him for whom he came.</p>
+            <p>The officer only demanded of an antient man whom he met, where Sir <hi>Thomas Lunsford</hi> was? who anſwered as if he knew not whether he was there, or not. Then the Officer tur<g ref="char:EOLhyphen"/>ning himſelfe about, perceived a ſtout fellow comming a<g ref="char:EOLhyphen"/>long with his ſword under his arme, as if he intended to paſſe through the Hall; but he was diſcerned, and ſtopt. In the meane time, the antient man ſlipt away through a dore on the right hand, at the upper end of the Hall; which the Officer perceiving, followed after him; which brought him into a long entry with many turnings: But the Officer chanced to look in at that very dore where Sir <hi>Thomas Lunsford</hi> was ſitting in a Parlor by the fire ſide, with ſome other Gentlemen with him.</p>
+            <p>The officer went in with an undaunted courage cloſe up to him; and before them all ſpake to this effect.</p>
+            <p>
+               <hi>Noble Colonell</hi> Lunsford, <hi>here is a Warrant from the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons, to apprehend and take you, and to bring you before them; which, I hope, you will not diſobay, nor, I hope, none of theſe Noble Gentlemen will offer to reſiſt.</hi>
+            </p>
+            <p>Then he taking the warrant, read it; and returned it into his hand againe: and ſpake to this effect.</p>
+            <p>
+               <hi>I have read the Warrant, I doe willingly obey it; being only ſorry that ſuch a guard came along with you; for I proteſt unto you, as I am a Gentleman, That I would have obeyed it, had it been ſerved on me at Winſor; therefore I ſhall onely deſire this favour from you.</hi>
+            </p>
+            <list>
+               <pb facs="tcp:157534:5"/>
+               <!-- PDF PAGE 40 -->
+               <item>1 That you will diſcharge your gard.</item>
+               <item>2 That your ſelfe will ſtay here with me untill to Morrow Morning, when (as I am a Gentleman) I will goe along with you as quietly, and peaceable as you deſire: beleeve it, you ſhall not need to doubt of what I ſay.</item>
+            </list>
+            <p>This promiſe was confirmed by the reſt of the Gentle<g ref="char:EOLhyphen"/>men that were with him.</p>
+            <p>Then the Officer deſiring the watchmen to take notice of what had paſt, diſcharged them, and gave them ten ſhil<g ref="char:EOLhyphen"/>lings, promiſing them a better reward after his returne to the Houſe. Colonell <hi>Lunsford</hi> alſo came into the Hall, and ſpake before them all, promiſing as he did before in the Parlor ſo they departed.</p>
+            <p>The Officer he ſtaied there till next day, which being the Sabbath day; they came but to Windſor and ſtaied there that night (where the Officer was adviſed by ſuch who tendred his ſafety) that as he reſpected his life, he muſt be carefull to looke to himſelfe there; for he little thought what danger he was in.</p>
+            <p>But, God bleſſing him; and being his protector, ſuch was the curteous, modeſt, and carefull carriage of the ſaid Officer; that the next day, being Munday, he ſafely brought him to London; and he remains under the cuſtody of the Sargeant at Armes.</p>
+            <p>At Windſor there was then thought to be about five or ſix hundred Cavilleres; and one hundred and fifty Horſe.</p>
+            <p>About fifty or threeſcore of which, well armed, marched out of the Towne preſently after; but they met not with him.</p>
+            <q>A Deo, non a Homine vim ſuam erat.</q>
+            <p>Herein Gods power was wonderfully ſeen, they ſay; Not Man, but God did worke to bring him thus away.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
